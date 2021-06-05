@@ -1,6 +1,8 @@
 # KNN from scratch
 
-mail sunilghimire64@gmail.com or (https://sunilghimire.aihubprojects.com/) for more concrete understanding.
+![knn_researchproject](https://user-images.githubusercontent.com/40186859/120884679-3bc70680-c604-11eb-8eae-332a7851a5bb.png)
+
+mail sunilghimire64@gmail.com or (https://sunilghimire.com.np/) for more concrete understanding.
 
 This research is used to discover how to implement the k-Nearest Neighbors algorithm from scratch with Python.
 
