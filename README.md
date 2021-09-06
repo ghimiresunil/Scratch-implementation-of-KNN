@@ -21,3 +21,7 @@ Specifically, this research will focused on below points:
 1. How to code the k-Nearest Neighbors algorithm step-by-step.
 2. How to evaluate k-Nearest Neighbors on a real dataset.
 3. How to use k-Nearest Neighbors to make a prediction for new data.
+
+## 💥 ESSENCE OF THE KNN ALGORITHM IN ONE PICTURE!
+![KNN_algorithm](https://user-images.githubusercontent.com/40186859/132229901-06f86d02-98c2-473a-a6ce-758701bb2bc5.jpeg)
+
